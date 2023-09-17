@@ -9,11 +9,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
 /**
- * TF工具类：实现简易的TF算法，用于计算余弦相似度
+ * Description: TF工具类：实现简易的TF算法，用于计算余弦相似度
  *
- * @author lql 2023/09/12
+ * @author lyx
+ * Date:2023/9/16 20:38
  */
 public class TFUtils {
     // 中文分词和文本预处理

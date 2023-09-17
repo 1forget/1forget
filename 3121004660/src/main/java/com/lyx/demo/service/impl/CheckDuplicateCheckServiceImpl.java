@@ -7,10 +7,11 @@ import com.lyx.demo.service.CheckDuplicateCheckService;
 import java.io.IOException;
 import java.util.Date;
 import java.util.List;
-
 /**
- * 查重服务的实现类
- * @author lql 2023/09/11
+ * Description: 查重服务的实现类
+ *
+ * @author lyx
+ * Date:2023/9/16 20:38
  */
 public class CheckDuplicateCheckServiceImpl implements CheckDuplicateCheckService {
 
