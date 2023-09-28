@@ -1,0 +1,4 @@
+com\lyx\arithmetic\utils\FileUtilsTest.class
+com\lyx\arithmetic\service\FractionTest.class
+com\lyx\arithmetic\service\JudgeTest.class
+com\lyx\arithmetic\utils\QuestionUtilsTest.class
